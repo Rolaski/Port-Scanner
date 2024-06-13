@@ -29,3 +29,8 @@ An example input.txt file should look like this:<br>
  - Wait until port scanning is performed
  - Ready! The information is in the output file
 
+<hr>
+
+## Important
+The application was created mainly to pass a course at university, so the code and comments were written in Polish, actually it's a bit stupid on my part, but that's how it goes. 
+If you need translation or have questions about the operation of the program, please write to me
